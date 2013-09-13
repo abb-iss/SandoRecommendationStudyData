@@ -8,4 +8,4 @@ questions:
 * RQ2: Do developers seem satisfied with queries constructed from Coronado’s recommendations?
 * RQ3: Are Coronado’s recommendations more helpful to users that are not familiar with the source codebase?
 
-![alt text](https://github.com/abb-iss/SandoRecommendationStudyData/summaryOfResults.png "Summary of Recommendation Usage")
+![alt text](https://github.com/abb-iss/SandoRecommendationStudyData/blob/master/summaryOfResults.png "Summary of Recommendation Usage")

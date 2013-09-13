@@ -1,0 +1,227 @@
+2013-08-21 09:26:47,355 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1710699840
+2013-08-21 15:21:04,944 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8.35749381265856, AvgIDF=5.37769454272847, AvgSQC=12.0584154492602, AvgVAR=0.00138944891497051
+2013-08-21 15:21:04,954 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-21 15:21:05,104 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: from measured measu red
+Reformed Query: from value message red
+Explanation: Find synonym of "measured" with "value";"message" is an often neighbor.;
+
+
+2013-08-21 15:21:05,107 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:from measured measu red
+Recommended queries:
+Reformed Query: from value measuringfromdate red
+Explanation: Find synonym of "measured" with "value";Correct "measu" to "measuringfromdate";
+Reformed Query: from message red
+Explanation: "message" is an often neighbor.;
+Reformed Query: from value args red
+Explanation: Find synonym of "measured" with "value";"args" is an often neighbor.;
+Reformed Query: from metrical message red
+Explanation: Find synonym of "measured" with "metrical";"message" is an often neighbor.;
+Reformed Query: from message measuringfromdate red
+Explanation: "message" is an often neighbor.;Correct "measu" to "measuringfromdate";
+Reformed Query: from message args red
+Explanation: "message" is an often neighbor.;"args" is an often neighbor.;
+Reformed Query: from message exception red
+Explanation: "message" is an often neighbor.;"exception" is an often neighbor.;
+Reformed Query: from args message red
+Explanation: "args" is an often neighbor.;"message" is an often neighbor.;
+Reformed Query: from args red
+Explanation: "args" is an often neighbor.;
+Reformed Query: from value exception red
+Explanation: Find synonym of "measured" with "value";"exception" is an often neighbor.;
+Reformed Query: from int red
+Explanation: "int" is an often neighbor.;
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from exception red
+Explanation: "exception" is an often neighbor.;
+Reformed Query: from message returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: "message" is an often neighbor.;Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from message returnsubmussionifchecknexttimeatisinpast red
+Explanation: "message" is an often neighbor.;Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from value returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Find synonym of "measured" with "value";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from value returnsubmussionifchecknexttimeatisinpast red
+Explanation: Find synonym of "measured" with "value";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from message adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: "message" is an often neighbor.;Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from message returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: "message" is an often neighbor.;Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from value adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Find synonym of "measured" with "value";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from value returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Find synonym of "measured" with "value";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog message red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";"message" is an often neighbor.;
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate message red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";"message" is an often neighbor.;
+Reformed Query: from message int red
+Explanation: "message" is an often neighbor.;"int" is an often neighbor.;
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue message red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";"message" is an often neighbor.;
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue message red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";"message" is an often neighbor.;
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue message red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";"message" is an often neighbor.;
+Reformed Query: from value int red
+Explanation: Find synonym of "measured" with "value";"int" is an often neighbor.;
+Reformed Query: from metrical measuringfromdate red
+Explanation: Find synonym of "measured" with "metrical";Correct "measu" to "measuringfromdate";
+Reformed Query: from int message red
+Explanation: "int" is an often neighbor.;"message" is an often neighbor.;
+Reformed Query: from args measuringfromdate red
+Explanation: "args" is an often neighbor.;Correct "measu" to "measuringfromdate";
+Reformed Query: from exception message red
+Explanation: "exception" is an often neighbor.;"message" is an often neighbor.;
+Reformed Query: from metrical args red
+Explanation: Find synonym of "measured" with "metrical";"args" is an often neighbor.;
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog measuringfromdate red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";Correct "measu" to "measuringfromdate";
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate measuringfromdate red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";Correct "measu" to "measuringfromdate";
+Reformed Query: from metrical exception red
+Explanation: Find synonym of "measured" with "metrical";"exception" is an often neighbor.;
+Reformed Query: from args exception red
+Explanation: "args" is an often neighbor.;"exception" is an often neighbor.;
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue measuringfromdate red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";Correct "measu" to "measuringfromdate";
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue measuringfromdate red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";Correct "measu" to "measuringfromdate";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue measuringfromdate red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";Correct "measu" to "measuringfromdate";
+Reformed Query: from metrical returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Find synonym of "measured" with "metrical";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from metrical returnsubmussionifchecknexttimeatisinpast red
+Explanation: Find synonym of "measured" with "metrical";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from metrical adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Find synonym of "measured" with "metrical";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from metrical returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Find synonym of "measured" with "metrical";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from args returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: "args" is an often neighbor.;Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from args returnsubmussionifchecknexttimeatisinpast red
+Explanation: "args" is an often neighbor.;Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog args red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";"args" is an often neighbor.;
+Reformed Query: from args adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: "args" is an often neighbor.;Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from args returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: "args" is an often neighbor.;Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate args red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";"args" is an often neighbor.;
+Reformed Query: from metrical int red
+Explanation: Find synonym of "measured" with "metrical";"int" is an often neighbor.;
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue args red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";"args" is an often neighbor.;
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue args red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";"args" is an often neighbor.;
+Reformed Query: from int measuringfromdate red
+Explanation: "int" is an often neighbor.;Correct "measu" to "measuringfromdate";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue args red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";"args" is an often neighbor.;
+Reformed Query: from args int red
+Explanation: "args" is an often neighbor.;"int" is an often neighbor.;
+Reformed Query: from exception measuringfromdate red
+Explanation: "exception" is an often neighbor.;Correct "measu" to "measuringfromdate";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog exception red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";"exception" is an often neighbor.;
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate exception red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";"exception" is an often neighbor.;
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog returnsubmussionifchecknexttimeatisinpast red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue exception red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";"exception" is an often neighbor.;
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue exception red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";"exception" is an often neighbor.;
+Reformed Query: from exception args red
+Explanation: "exception" is an often neighbor.;"args" is an often neighbor.;
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue exception red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";"exception" is an often neighbor.;
+Reformed Query: from int args red
+Explanation: "int" is an often neighbor.;"args" is an often neighbor.;
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate returnsubmussionifchecknexttimeatisinpast red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from int exception red
+Explanation: "int" is an often neighbor.;"exception" is an often neighbor.;
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue returnsubmussionifchecknexttimeatisinpast red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue returnsubmussionifchecknexttimeatisinpast red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from renameacknowledgequeryaserrortovalidationfailurelog int red
+Explanation: Correct "measured" to "renameacknowledgequeryaserrortovalidationfailurelog";"int" is an often neighbor.;
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue returnsubmussionifchecknexttimeatisinpast red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from returnissueifnewlastmedicalcertdateisearlierthanexistingdate int red
+Explanation: Correct "measured" to "returnissueifnewlastmedicalcertdateisearlierthanexistingdate";"int" is an often neighbor.;
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue int red
+Explanation: Correct "measured" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";"int" is an often neighbor.;
+Reformed Query: from claimmedicalcertreceivedbyemployerdateandoccurrenceissue int red
+Explanation: Correct "measured" to "claimmedicalcertreceivedbyemployerdateandoccurrenceissue";"int" is an often neighbor.;
+Reformed Query: from exception int red
+Explanation: "exception" is an often neighbor.;"int" is an often neighbor.;
+Reformed Query: from returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue int red
+Explanation: Correct "measured" to "returnsissuetotalactualpaymentsnotsuppliedandceaseddatehasvalue";"int" is an often neighbor.;
+Reformed Query: from int returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: "int" is an often neighbor.;Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from int returnsubmussionifchecknexttimeatisinpast red
+Explanation: "int" is an often neighbor.;Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from int adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: "int" is an often neighbor.;Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from int returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: "int" is an often neighbor.;Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+Reformed Query: from exception returnslastsubmissionreferenceonsamefilenameandinsurer red
+Explanation: "exception" is an often neighbor.;Correct "measu" to "returnslastsubmissionreferenceonsamefilenameandinsurer";
+Reformed Query: from exception returnsubmussionifchecknexttimeatisinpast red
+Explanation: "exception" is an often neighbor.;Correct "measu" to "returnsubmussionifchecknexttimeatisinpast";
+Reformed Query: from exception adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent red
+Explanation: "exception" is an often neighbor.;Correct "measu" to "adjustmenttakessupplieddatesiflasteventisnotalapseandisonevent";
+Reformed Query: from exception returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue red
+Explanation: "exception" is an often neighbor.;Correct "measu" to "returnsnulltotalactualpaymentssuppliedandceaseddatehasvalue";
+
+
+2013-08-21 15:21:05,659 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-21 15:21:05,660 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0601719154044986, StdDevScore=0.0190861436235022
+2013-08-21 15:21:22,350 INFO  DataCollectionLogger - IReformedQuery: Selected recommendation: from value measuringfromdate red
+2013-08-21 15:21:22,355 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8.35749381265856, AvgIDF=5.25564545296325, AvgSQC=11.5486793630762, AvgVAR=0.00150663136541201
+2013-08-21 15:21:22,356 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain,Plain,Plain ; DiceCoefficientToPreviousQuery=0.333333333333333
+2013-08-21 15:21:22,591 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-21 15:21:22,592 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0809265363030136, StdDevScore=0.0275166474213325
+2013-08-21 15:21:26,489 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-21 15:21:28,810 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-21 15:21:31,669 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-21 15:21:35,138 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-21 15:21:41,032 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-21 15:21:42,522 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-21 15:21:45,687 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-21 15:21:49,723 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-21 15:21:50,875 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-21 15:21:55,950 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.121864475309849, DoubleClickedResultRank=4
+2013-08-21 15:21:56,104 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

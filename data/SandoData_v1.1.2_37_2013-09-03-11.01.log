@@ -1,0 +1,135 @@
+2013-09-03 11:01:29,118 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1294651451
+2013-09-03 15:17:06,389 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-09-03 15:17:06,389 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-09-03 15:17:06,756 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-03 15:17:06,756 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-03 15:17:10,592 INFO  DataCollectionLogger - Pre-search recommendation: History
+2013-09-03 15:17:10,594 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-09-03 15:17:13,859 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-09-03 15:17:13,860 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-09-03 15:17:16,844 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-09-03 15:17:16,845 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-09-03 15:17:21,142 INFO  DataCollectionLogger - Pre-search recommendation: History
+2013-09-03 15:17:21,143 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-09-03 15:17:21,526 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:21,533 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-09-03 15:17:21,925 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:21,930 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-09-03 15:17:22,418 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:22,419 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-09-03 15:17:23,395 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:23,396 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-09-03 15:17:23,656 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:23,657 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
+2013-09-03 15:17:23,831 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:23,832 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=5
+2013-09-03 15:17:24,030 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:24,031 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=6
+2013-09-03 15:17:24,268 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:24,269 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=7
+2013-09-03 15:17:24,766 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:24,767 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=8
+2013-09-03 15:17:24,796 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:24,797 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=9
+2013-09-03 15:17:24,826 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:24,827 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=10
+2013-09-03 15:17:24,855 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 15:17:24,856 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=11
+2013-09-03 15:17:24,885 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 15:17:24,886 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=12
+2013-09-03 15:17:24,922 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 15:17:24,924 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=13
+2013-09-03 15:17:24,946 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 15:17:24,947 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=14
+2013-09-03 15:17:24,976 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 15:17:24,978 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=15
+2013-09-03 15:17:25,036 INFO  DataCollectionLogger - Pre-search recommendation: History
+2013-09-03 15:17:25,037 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-09-03 15:17:25,065 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:25,066 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-09-03 15:17:25,095 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:25,097 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-09-03 15:17:25,438 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:25,439 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
+2013-09-03 15:17:25,707 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:25,709 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=5
+2013-09-03 15:17:25,948 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:25,949 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=6
+2013-09-03 15:17:26,149 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:26,150 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=7
+2013-09-03 15:17:26,354 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:26,355 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=8
+2013-09-03 15:17:26,521 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-09-03 15:17:26,522 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=9
+2013-09-03 15:17:29,155 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 15:17:29,155 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 15:17:29,157 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.193653229810297, StdDevScore=0.0311393562528393
+2013-09-03 15:17:29,157 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.193653229810297, StdDevScore=0.0311393562528393
+2013-09-03 15:17:29,604 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:17:37,998 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.210317775607109, DoubleClickedResultRank=1
+2013-09-03 15:17:38,224 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:17:38,283 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:17:38,524 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.210317775607109, DoubleClickedResultRank=1
+2013-09-03 15:17:38,569 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:17:38,586 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:17:38,654 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:30:33,538 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5.55682806169954, AvgIDF=5.55682806169954, AvgSQC=20.2216158873395, AvgVAR=5.55111512312578E-17
+2013-09-03 15:30:33,643 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-03 15:30:34,929 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5.55682806169954, AvgIDF=5.55682806169954, AvgSQC=20.2216158873395, AvgVAR=5.55111512312578E-17
+2013-09-03 15:30:34,930 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-09-03 15:30:35,798 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5.55682806169954, AvgIDF=5.55682806169954, AvgSQC=20.2216158873395, AvgVAR=5.55111512312578E-17
+2013-09-03 15:30:36,475 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-09-03 15:30:37,141 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 15:30:37,142 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 15:30:37,142 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.442388417944312, StdDevScore=0.303575707196492
+2013-09-03 15:30:37,148 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.442388417944312, StdDevScore=0.303575707196492
+2013-09-03 15:30:37,163 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 15:30:37,169 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.442388417944312, StdDevScore=0.303575707196492
+2013-09-03 15:30:39,142 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:30:44,728 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-03 15:30:47,378 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-09-03 15:31:24,637 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:33:52,186 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:33:53,377 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-03 15:34:18,759 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=NameContainsQuery, ResultLanguage=C#, ResultLuceneScore=1.5003434419632, DoubleClickedResultRank=2
+2013-09-03 15:34:18,911 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:34:21,086 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 15:34:22,537 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-03 15:34:23,944 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:34:28,672 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-03 15:34:30,008 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-09-03 15:34:31,780 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=6
+2013-09-03 15:34:33,276 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=7
+2013-09-03 15:34:35,833 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=8
+2013-09-03 15:34:44,139 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=9
+2013-09-03 15:34:52,348 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:34:54,364 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=9
+2013-09-03 15:34:55,311 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-09-03 15:35:02,558 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.487426519393921, DoubleClickedResultRank=10
+2013-09-03 15:35:03,578 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:35:09,387 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=14
+2013-09-03 15:35:10,624 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 15:35:22,538 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-09-03 15:35:23,060 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.487426519393921, DoubleClickedResultRank=10
+2013-09-03 15:35:23,101 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 17:38:33,714 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=7.69712131728263, AvgIDF=7.69712131728263, AvgSQC=7.69712131728263, AvgVAR=0
+2013-09-03 17:38:33,812 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Acronym ; DiceCoefficientToPreviousQuery=0
+2013-09-03 17:38:34,168 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=6, MaxNumberOfResultsPossible=40
+2013-09-03 17:38:34,174 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0990731238077084, StdDevScore=0.0303771454468026
+2013-09-03 17:38:36,945 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 17:38:43,028 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 17:38:48,168 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 17:39:04,549 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-03 17:39:10,517 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-09-03 17:39:24,365 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-03 17:39:51,401 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-09-03 17:39:51,403 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-03 17:39:52,328 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.104510225355625, DoubleClickedResultRank=4
+2013-09-03 17:39:53,275 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 17:39:54,423 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-03 17:39:54,677 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.104510225355625, DoubleClickedResultRank=4
+2013-09-03 17:39:55,689 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.104510225355625, DoubleClickedResultRank=4
+2013-09-03 17:39:56,370 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 17:40:10,377 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-03 17:40:12,875 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.104510225355625, DoubleClickedResultRank=4
+2013-09-03 17:40:12,916 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

@@ -1,0 +1,21 @@
+2013-08-28 15:34:47,222 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=713890747
+2013-08-28 15:35:12,328 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-28 15:35:12,345 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-28 15:35:12,568 INFO  DataCollectionLogger - Pre-search recommendation: History
+2013-08-28 15:35:12,623 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-28 15:35:13,654 INFO  DataCollectionLogger - Post-search recommendation: Created links.Neighbor; Typo Correction; Typo Correction; Neighbor; Typo Correction;Neighbor; Typo Correction; Typo Correction; Neighbor;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Neighbor; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Neighbor; Neighbor;Neighbor; Typo Correction;Typo Correction; Neighbor;Neighbor; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Neighbor; Neighbor;Neighbor; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Neighbor; Neighbor;Typo Correction; Neighbor;Typo Correction; 
+2013-08-28 15:35:19,664 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=29, MaxNumberOfResultsPossible=40
+2013-08-28 15:35:19,664 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0203203883600132, StdDevScore=0.0101909252365617
+2013-08-28 15:36:12,816 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-28 15:36:12,817 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-08-28 15:36:12,894 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-28 15:36:12,897 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Typo Correction; Neighbor; Typo Correction; Neighbor; Neighbor; 
+2013-08-28 15:36:14,414 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-28 15:36:14,414 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.161378467828035, StdDevScore=0.0383808365609592
+2013-08-28 15:36:32,865 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-08-28 15:39:17,526 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-28 15:39:17,527 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-08-28 15:39:19,005 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-28 15:39:19,005 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Neighbor; Typo Correction; Typo Correction; Neighbor; Neighbor; Typo Correction; 
+2013-08-28 15:39:40,593 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-28 15:39:40,593 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.316679628193378, StdDevScore=0.0149067166732983

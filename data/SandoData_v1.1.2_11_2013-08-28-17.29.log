@@ -1,0 +1,13 @@
+2013-08-28 17:29:53,439 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-443901734
+2013-08-28 18:10:42,068 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.68461172766793, AvgIDF=6.68461172766793, AvgSQC=6.68461172766793, AvgVAR=0
+2013-08-28 18:10:42,114 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-28 18:10:42,346 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-28 18:10:42,349 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Typo Correction; Typo Correction; Typo Correction; 
+2013-08-28 18:10:46,865 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-28 18:10:46,867 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.119582325220108, StdDevScore=0.077751351437081
+2013-08-28 18:10:53,401 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-28 18:10:54,014 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.401686608791351, DoubleClickedResultRank=1
+2013-08-28 18:10:55,312 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-28 18:11:26,071 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-28 18:11:26,290 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.395115405321121, DoubleClickedResultRank=2
+2013-08-28 18:11:27,430 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

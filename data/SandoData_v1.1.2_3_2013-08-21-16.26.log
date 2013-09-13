@@ -1,0 +1,29 @@
+2013-08-21 16:26:40,928 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=2105219820
+2013-08-21 16:34:15,152 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.33073334028633, AvgIDF=4.33073334028633, AvgSQC=16.338075758592, AvgVAR=0
+2013-08-21 16:34:15,169 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-21 16:34:17,206 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=17, MaxNumberOfResultsPossible=40
+2013-08-21 16:34:17,207 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0476691922282471, StdDevScore=0.00978000504476734
+2013-08-21 16:34:24,252 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=7.6004023345004, AvgIDF=7.6004023345004, AvgSQC=7.6004023345004, AvgVAR=0
+2013-08-21 16:34:24,252 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-21 16:34:24,293 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: cool
+Reformed Query: col
+Explanation: Correct "cool" to "col";
+
+
+2013-08-21 16:34:24,296 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:cool
+Recommended queries:
+Reformed Query: color
+Explanation: Correct "cool" to "color";
+Reformed Query: control
+Explanation: Correct "cool" to "control";
+Reformed Query: column
+Explanation: Correct "cool" to "column";
+
+
+2013-08-21 16:34:26,971 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=8, MaxNumberOfResultsPossible=40
+2013-08-21 16:34:26,972 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0399968270212412, StdDevScore=0.0223099327851427
+2013-08-21 16:34:29,302 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=6
+2013-08-21 16:34:29,484 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-08-21 16:34:30,690 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0.0272503290325403, DoubleClickedResultRank=5
+2013-08-21 16:34:31,591 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

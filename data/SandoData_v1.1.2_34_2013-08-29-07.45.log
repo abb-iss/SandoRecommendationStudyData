@@ -1,0 +1,25 @@
+2013-08-29 07:45:03,980 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1289376155
+2013-08-29 08:43:00,510 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=1.79175946922805, AvgIDF=1.13373246055405, AvgSQC=8.21893638130752, AvgVAR=0.000578406248188343
+2013-08-29 08:43:00,533 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,Quoted,Quoted ; DiceCoefficientToPreviousQuery=0
+2013-08-29 08:43:01,203 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=1, MaxNumberOfResultsPossible=40
+2013-08-29 08:43:01,210 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0439150631427765, StdDevScore=0
+2013-08-29 08:43:04,738 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-29 08:43:06,226 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.0439150631427765, DoubleClickedResultRank=1
+2013-08-29 08:43:07,432 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-29 09:54:00,088 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.99942246750796, AvgIDF=6.99942246750796, AvgSQC=6.99942246750796, AvgVAR=0
+2013-08-29 09:54:00,093 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-29 09:54:03,263 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-29 09:54:03,271 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.00662129893898964, StdDevScore=2.60208521396521E-18
+2013-08-29 09:54:16,465 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.99942246750796, AvgIDF=6.99942246750796, AvgSQC=6.99942246750796, AvgVAR=0
+2013-08-29 09:54:16,473 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=1
+2013-08-29 09:54:17,998 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-29 09:54:18,013 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.00662129893898964, StdDevScore=2.60208521396521E-18
+2013-08-29 09:54:20,719 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.99942246750796, AvgIDF=6.99942246750796, AvgSQC=6.99942246750796, AvgVAR=0
+2013-08-29 09:54:20,730 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=1
+2013-08-29 09:54:25,085 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-29 09:54:25,094 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.00662129893898964, StdDevScore=2.60208521396521E-18
+2013-08-29 09:54:25,182 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-29 09:54:25,220 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-29 09:58:57,898 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=11
+2013-08-29 09:59:09,908 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Class, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.00662129893898964, DoubleClickedResultRank=11
+2013-08-29 09:59:10,670 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

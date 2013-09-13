@@ -1,0 +1,18 @@
+2013-08-30 15:17:41,508 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1294651451
+2013-08-30 15:20:22,124 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-08-30 15:20:22,126 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-30 15:20:22,126 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-30 15:20:24,079 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.5792512120101, AvgIDF=6.5792512120101, AvgSQC=19.381882918645, AvgVAR=0
+2013-08-30 15:20:24,215 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-30 15:20:27,066 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-30 15:20:27,067 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.283710382506251, StdDevScore=0.235006659316301
+2013-08-30 15:21:32,192 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5.6970934865054, AvgIDF=4.3807544579778, AvgSQC=25.3038162461192, AvgVAR=0.00514162426944786
+2013-08-30 15:21:32,199 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=AcronymUnderscore ; DiceCoefficientToPreviousQuery=0
+2013-08-30 15:21:33,113 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-30 15:21:33,114 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.265038881264627, StdDevScore=0.407787284474354
+2013-08-30 15:22:39,353 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.251670569181442, DoubleClickedResultRank=16
+2013-08-30 15:22:39,617 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.251670569181442, DoubleClickedResultRank=16
+2013-08-30 15:22:39,838 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.251670569181442, DoubleClickedResultRank=16
+2013-08-30 15:22:39,891 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-30 15:22:39,905 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=16
+2013-08-30 15:22:40,753 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

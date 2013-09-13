@@ -1,0 +1,25 @@
+2013-08-23 09:22:53,572 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1885861383
+2013-08-23 16:27:39,414 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:27:39,521 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=AcronymUnderscore ; DiceCoefficientToPreviousQuery=0
+2013-08-23 16:27:40,366 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:27:40,367 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-23 16:27:45,989 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:27:45,991 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=AcronymUnderscore ; DiceCoefficientToPreviousQuery=0
+2013-08-23 16:27:46,043 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:27:46,045 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-23 16:27:53,444 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:27:53,445 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=AcronymUnderscore ; DiceCoefficientToPreviousQuery=1
+2013-08-23 16:27:53,468 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:27:53,469 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-23 16:28:11,285 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:28:11,287 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=AcronymUnderscore ; DiceCoefficientToPreviousQuery=1
+2013-08-23 16:28:11,349 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:28:11,350 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-23 16:28:19,460 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:28:19,462 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Acronym ; DiceCoefficientToPreviousQuery=0
+2013-08-23 16:28:19,518 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:28:19,520 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-23 16:28:23,596 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-23 16:28:23,598 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Acronym ; DiceCoefficientToPreviousQuery=1
+2013-08-23 16:28:23,651 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=20
+2013-08-23 16:28:23,653 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN

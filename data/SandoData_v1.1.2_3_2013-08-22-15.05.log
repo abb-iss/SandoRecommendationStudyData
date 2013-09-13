@@ -1,0 +1,50 @@
+2013-08-22 15:05:13,980 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=2105219820
+2013-08-23 15:00:15,448 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-23 15:00:15,448 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-23 15:00:15,449 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-23 15:00:15,449 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-23 15:00:15,863 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.80666248977032, AvgIDF=2.87628631941282, AvgSQC=14.3182188174929, AvgVAR=0.00658029264143813
+2013-08-23 15:00:15,877 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-23 15:00:18,749 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-23 15:00:18,750 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.203838101401925, StdDevScore=0.0909888627949553
+2013-08-23 15:00:19,901 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-23 15:00:21,087 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-23 15:00:22,444 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0.411523163318634, DoubleClickedResultRank=2
+2013-08-23 15:00:23,428 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-23 15:02:09,433 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=9
+2013-08-23 15:02:11,789 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0.231142982840538, DoubleClickedResultRank=9
+2013-08-23 15:02:12,529 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-23 15:04:39,725 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=2105219820
+2013-08-23 15:04:44,571 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.98898404656427, AvgIDF=3.58351893845611, AvgSQC=14.2553345963153, AvgVAR=0.00528348821147075
+2013-08-23 15:04:44,572 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-23 15:04:44,621 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: copy ultra
+Reformed Query: copy multi
+Explanation: Correct "ultra" to "multi";
+
+
+2013-08-23 15:04:44,624 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:copy ultra
+Recommended queries:
+Reformed Query: copy copyfileultra
+Explanation: Correct "ultra" to "copyfileultra";
+Reformed Query: copy multiple
+Explanation: Correct "ultra" to "multiple";
+Reformed Query: copy received
+Explanation: "received" is an often neighbor.;
+Reformed Query: copy relative
+Explanation: "relative" is an often neighbor.;
+Reformed Query: copy betrachten
+Explanation: Correct "ultra" to "betrachten";
+Reformed Query: copy make
+Explanation: "make" is an often neighbor.;
+Reformed Query: copy veraltete
+Explanation: Correct "ultra" to "veraltete";
+Reformed Query: copy have
+Explanation: "have" is an often neighbor.;
+
+
+2013-08-23 15:04:45,640 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-23 15:04:45,641 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0873787455726415, StdDevScore=0.0733836418245912
+2013-08-23 15:04:51,471 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-23 15:04:53,140 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0.20811927318573, DoubleClickedResultRank=2
+2013-08-23 15:04:53,811 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

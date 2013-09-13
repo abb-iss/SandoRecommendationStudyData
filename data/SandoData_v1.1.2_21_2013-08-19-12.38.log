@@ -1,0 +1,5 @@
+2013-08-19 12:38:42,288 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1165651858
+2013-08-19 13:03:17,406 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-19 13:03:19,204 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6,91671502035361, AvgIDF=6,91671502035361, AvgSQC=25,6475265221889, AvgVAR=0,0561663225094064
+2013-08-19 13:03:19,231 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-21 08:57:41,870 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1165651858

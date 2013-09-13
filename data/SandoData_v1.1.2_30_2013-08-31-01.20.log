@@ -1,0 +1,40 @@
+2013-08-31 01:20:04,528 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=800307135
+2013-08-31 01:20:31,292 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-31 01:20:31,304 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-31 01:20:31,479 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Neighbor; 
+2013-08-31 01:20:31,481 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Typo Correction; Typo Correction; Neighbor; Typo Correction; Typo Correction; Neighbor; Neighbor; Neighbor; 
+2013-08-31 01:20:31,897 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-31 01:20:31,898 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.135858287848532, StdDevScore=0.017433414813254
+2013-08-31 01:20:36,366 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-08-31 01:20:38,899 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-31 01:20:49,318 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-31 01:20:49,319 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-31 01:20:49,472 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-31 01:20:49,473 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Neighbor; Neighbor; Typo Correction; Typo Correction; Neighbor; Typo Correction; Neighbor; Neighbor; 
+2013-08-31 01:20:49,607 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-31 01:20:49,608 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.141179708950222, StdDevScore=0.184342622373264
+2013-08-31 01:21:11,635 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=9
+2013-08-31 01:21:15,347 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-08-31 01:21:17,013 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=14
+2013-08-31 01:21:50,044 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-31 01:21:58,883 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-08-31 01:21:58,884 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:21:58,884 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:21:58,885 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:21:59,395 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8.25452888193974, AvgIDF=8.25452888193974, AvgSQC=8.25452888193974, AvgVAR=0
+2013-08-31 01:21:59,398 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-31 01:21:59,604 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-31 01:21:59,605 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.157471472583711, StdDevScore=0.0710187293075409
+2013-08-31 01:22:01,114 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-31 01:22:15,306 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=NameContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.545110940933228, DoubleClickedResultRank=1
+2013-08-31 01:22:16,240 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-31 01:22:39,334 INFO  DataCollectionLogger - Pre-search recommendation: Identifier
+2013-08-31 01:22:39,334 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:22:39,335 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:22:39,336 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:22:39,336 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:22:39,337 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-31 01:22:40,601 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=7.56112158953024, AvgIDF=7.56112158953024, AvgSQC=7.56112158953024, AvgVAR=0
+2013-08-31 01:22:40,602 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-31 01:22:40,776 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-31 01:22:40,777 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.243733485974371, StdDevScore=0.209397334343348

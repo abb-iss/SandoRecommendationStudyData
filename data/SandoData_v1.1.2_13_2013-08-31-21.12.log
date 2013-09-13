@@ -1,0 +1,5 @@
+2013-08-31 21:12:22,514 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-823169339
+2013-08-31 21:13:21,893 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0,693147180559945, AvgIDF=0,693147180559945, AvgSQC=1,17360019447815, AvgVAR=0
+2013-08-31 21:13:21,910 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-31 21:13:22,708 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=5, MaxNumberOfResultsPossible=40
+2013-08-31 21:13:22,712 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,0635457694530487, StdDevScore=0,0154731526628203

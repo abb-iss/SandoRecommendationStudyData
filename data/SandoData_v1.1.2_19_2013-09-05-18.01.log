@@ -1,0 +1,28 @@
+2013-09-05 18:01:24,678 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1896308868
+2013-09-05 18:02:05,860 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-09-05 18:02:08,176 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.07753744390572, AvgIDF=4.07753744390572, AvgSQC=4.07753744390572, AvgVAR=0
+2013-09-05 18:02:08,193 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Quoted ; DiceCoefficientToPreviousQuery=0
+2013-09-05 18:02:09,116 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=13, MaxNumberOfResultsPossible=40
+2013-09-05 18:02:09,132 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0483134494378017, StdDevScore=0.0346176658569593
+2013-09-05 18:02:16,639 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=8
+2013-09-05 18:02:17,622 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=9
+2013-09-05 18:02:26,077 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-09-05 18:02:48,556 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Class, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.0128541022539139, DoubleClickedResultRank=10
+2013-09-05 18:02:49,508 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-05 18:04:43,419 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=11
+2013-09-05 18:04:43,635 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Class, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.0128541022539139, DoubleClickedResultRank=11
+2013-09-05 18:04:44,618 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-05 18:04:56,414 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=12
+2013-09-05 18:04:56,589 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Class, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.0128541022539139, DoubleClickedResultRank=12
+2013-09-05 18:04:57,430 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-05 18:05:23,659 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.04305126783455, AvgIDF=4.04305126783455, AvgSQC=4.04305126783455, AvgVAR=0
+2013-09-05 18:05:23,678 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-05 18:05:23,995 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=23, MaxNumberOfResultsPossible=40
+2013-09-05 18:05:23,997 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0182894820428413, StdDevScore=0.00952989959398801
+2013-09-05 18:05:29,688 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-05 18:05:35,319 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-09-05 18:05:36,583 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-09-05 18:05:37,269 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=6
+2013-09-05 18:05:41,247 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=7
+2013-09-05 18:05:54,242 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.0274136662483215, DoubleClickedResultRank=7
+2013-09-05 18:05:54,944 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

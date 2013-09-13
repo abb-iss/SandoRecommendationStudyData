@@ -1,0 +1,15 @@
+2013-08-14 17:27:58,733 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-677374610
+2013-08-14 17:28:18,641 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-14 17:28:18,651 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-14 17:28:26,667 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: getcwc
+2013-08-14 17:28:28,355 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: getcwc
+2013-08-14 17:28:29,139 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: getcwc
+2013-08-14 17:29:45,973 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-14 17:29:45,974 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-14 17:29:45,974 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-14 17:29:46,458 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-14 17:29:46,459 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=1
+2013-08-14 17:29:48,443 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-14 17:29:48,444 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=1
+2013-08-14 17:30:36,140 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-14 17:30:36,140 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0

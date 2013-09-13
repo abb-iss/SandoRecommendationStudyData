@@ -1,0 +1,120 @@
+2013-08-18 16:11:59,495 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=23971318
+2013-08-18 16:17:51,275 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-18 16:17:51,276 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-18 16:17:51,282 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=1
+2013-08-18 16:17:51,520 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-08-18 16:17:51,521 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-08-18 16:17:51,521 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=2
+2013-08-18 16:17:51,669 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-08-18 16:17:51,670 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-08-18 16:17:51,671 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=3
+2013-08-18 16:17:52,871 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8,67539280608978, AvgIDF=5,90544351100947, AvgSQC=15,0575285366306, AvgVAR=0,00110142437401301
+2013-08-18 16:17:52,897 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=CamelcaseUnderscore ; DiceCoefficientToPreviousQuery=0
+2013-08-18 16:17:52,901 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8,67539280608978, AvgIDF=5,90544351100947, AvgSQC=15,0575285366306, AvgVAR=0,00110142437401301
+2013-08-18 16:17:52,902 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=CamelcaseUnderscore ; DiceCoefficientToPreviousQuery=1
+2013-08-18 16:17:53,217 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: control data edit init initdataeditcontrol
+Reformed Query: control data edit init dialog
+Explanation: "dialog" is an often neighbor.;
+
+
+2013-08-18 16:17:53,217 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: control data edit init initdataeditcontrol
+Reformed Query: control data edit init dialog
+Explanation: "dialog" is an often neighbor.;
+
+
+2013-08-18 16:17:53,220 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:control data edit init initdataeditcontrol
+Recommended queries:
+Reformed Query: control data edit init cfindeditctrl
+Explanation: Correct "initdataeditcontrol" to "cfindeditctrl";
+Reformed Query: control data edit init onupdateeditcopy
+Explanation: Correct "initdataeditcontrol" to "onupdateeditcopy";
+Reformed Query: control data edit init updatecontrols
+Explanation: Correct "initdataeditcontrol" to "updatecontrols";
+Reformed Query: control data edit init getrtfnextcontrol
+Explanation: Correct "initdataeditcontrol" to "getrtfnextcontrol";
+Reformed Query: control data edit init the
+Explanation: "the" is an often neighbor.;
+Reformed Query: control data edit init onbeginlabeleditproperties
+Explanation: Correct "initdataeditcontrol" to "onbeginlabeleditproperties";
+Reformed Query: control data edit init file
+Explanation: "file" is an often neighbor.;
+
+
+2013-08-18 16:17:53,220 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:control data edit init initdataeditcontrol
+Recommended queries:
+Reformed Query: control data edit init cfindeditctrl
+Explanation: Correct "initdataeditcontrol" to "cfindeditctrl";
+Reformed Query: control data edit init onupdateeditcopy
+Explanation: Correct "initdataeditcontrol" to "onupdateeditcopy";
+Reformed Query: control data edit init updatecontrols
+Explanation: Correct "initdataeditcontrol" to "updatecontrols";
+Reformed Query: control data edit init getrtfnextcontrol
+Explanation: Correct "initdataeditcontrol" to "getrtfnextcontrol";
+Reformed Query: control data edit init the
+Explanation: "the" is an often neighbor.;
+Reformed Query: control data edit init onbeginlabeleditproperties
+Explanation: Correct "initdataeditcontrol" to "onbeginlabeleditproperties";
+Reformed Query: control data edit init file
+Explanation: "file" is an often neighbor.;
+
+
+2013-08-18 16:17:57,135 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=8,75605259917045, AvgIDF=5,9670532147592, AvgSQC=15,3334179672838, AvgVAR=0,0010546976820515
+2013-08-18 16:17:57,136 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=CamelcaseUnderscore ; DiceCoefficientToPreviousQuery=1
+2013-08-18 16:17:57,239 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: control data edit init initdataeditcontrol
+Reformed Query: control data edit init onupdateeditcopy
+Explanation: Correct "initdataeditcontrol" to "onupdateeditcopy";
+
+
+2013-08-18 16:17:57,240 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:control data edit init initdataeditcontrol
+Recommended queries:
+Reformed Query: control data edit init updatecontrols
+Explanation: Correct "initdataeditcontrol" to "updatecontrols";
+Reformed Query: control data edit init getrtfnextcontrol
+Explanation: Correct "initdataeditcontrol" to "getrtfnextcontrol";
+Reformed Query: control data edit init dialog
+Explanation: "dialog" is an often neighbor.;
+Reformed Query: control data edit init jpegdmaincontroller
+Explanation: Correct "initdataeditcontrol" to "jpegdmaincontroller";
+Reformed Query: control data edit init jpegcmaincontroller
+Explanation: Correct "initdataeditcontrol" to "jpegcmaincontroller";
+Reformed Query: control data edit init file
+Explanation: "file" is an often neighbor.;
+Reformed Query: control data edit init the
+Explanation: "the" is an often neighbor.;
+
+
+2013-08-18 16:17:59,734 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-18 16:17:59,734 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,0719311458989978, StdDevScore=0,129084017214765
+2013-08-18 16:18:03,990 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:04,632 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:06,811 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:08,052 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:09,303 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:09,891 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:11,672 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:12,561 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:15,341 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:16,298 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:17,360 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:19,546 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:23,171 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:23,279 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:24,794 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:26,752 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=MethodPrototype, QueryToResultSimilarityDescription=NameContainsQuery, ResultLanguage=C++, ResultLuceneScore=0,868852376937866, DoubleClickedResultRank=1
+2013-08-18 16:18:27,822 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-18 16:18:31,878 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-18 16:18:32,529 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-18 16:18:35,505 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: Init_DataEditControl
+2013-08-18 16:18:37,683 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: Init_DataEditControl
+2013-08-18 16:18:52,871 INFO  DataCollectionLogger - IReformedQuery: Selected recommendation: control data edit init updatecontrols
+2013-08-18 16:18:52,973 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=7,7510451179718, AvgIDF=4,25471351025082, AvgSQC=22,9684466719015, AvgVAR=0,000937408109731885
+2013-08-18 16:18:52,973 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain,Plain,Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-18 16:18:53,483 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-18 16:18:53,484 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,141932987608016, StdDevScore=0,088511898255131
+2013-08-18 16:18:58,348 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=20
+2013-08-18 16:19:01,056 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=19
+2013-08-18 16:19:03,821 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=18
+2013-08-18 16:19:07,669 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

@@ -1,0 +1,39 @@
+2013-09-03 10:13:50,683 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=131131784
+2013-09-03 14:54:14,149 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6,09356977004514, AvgIDF=4,90357091837472, AvgSQC=28,3387097023194, AvgVAR=0,0137547218635798
+2013-09-03 14:54:14,165 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 14:54:14,702 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 14:54:14,703 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,212126661464572, StdDevScore=0,0563504631111449
+2013-09-03 14:54:33,942 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 14:54:45,127 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0,458123803138733, DoubleClickedResultRank=1
+2013-09-03 14:54:46,938 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 14:55:19,317 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5,55682806169954, AvgIDF=5,19257089950092, AvgSQC=31,2128657610776, AvgVAR=0,00347668352881604
+2013-09-03 14:55:19,319 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 14:55:19,491 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 14:55:19,492 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,797637511789799, StdDevScore=0,25128771751441
+2013-09-03 14:55:40,673 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 14:55:52,156 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 14:55:53,933 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 14:55:54,232 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=1,24833834171295, DoubleClickedResultRank=1
+2013-09-03 14:55:54,723 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 14:56:02,442 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-09-03 14:56:02,602 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=1,19308722019196, DoubleClickedResultRank=5
+2013-09-03 14:56:02,850 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 14:56:10,230 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-09-03 14:56:44,906 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6,64509096950564, AvgIDF=6,64509096950564, AvgSQC=27,1853492626756, AvgVAR=0,0789361092286873
+2013-09-03 14:56:44,908 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 14:56:45,030 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 14:56:45,068 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,233771695196629, StdDevScore=0,399843549681572
+2013-09-03 14:56:56,616 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6,84800527457636, AvgIDF=6,84800527457636, AvgSQC=31,7582144831086, AvgVAR=0,0757246422232403
+2013-09-03 14:56:56,617 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 14:56:56,780 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 14:56:56,781 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,373267052695155, StdDevScore=0,34993435462977
+2013-09-03 14:57:12,890 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=5,15329159449778, AvgIDF=4,30951374864875, AvgSQC=28,3289416743627, AvgVAR=0,000988635522731482
+2013-09-03 14:57:12,891 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 14:57:13,071 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 14:57:13,072 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,384452931582928, StdDevScore=0,0443494017746054
+2013-09-03 14:58:12,771 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-09-03 14:58:15,528 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-03 14:58:19,958 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-09-03 14:58:25,177 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0,464684456586838, DoubleClickedResultRank=3
+2013-09-03 14:58:27,097 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-03 14:58:43,442 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.

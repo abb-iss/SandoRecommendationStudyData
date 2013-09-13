@@ -1,0 +1,10 @@
+2013-09-06 13:59:16,790 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1114488476
+2013-09-06 13:59:48,888 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: 
+2013-09-06 13:59:49,201 INFO  DataCollectionLogger - TagCloud: Select a tag. Query: 
+Tag is related to: TOFIXTHE. Selected tag: button
+
+2013-09-06 13:59:49,274 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=2,39789527279837, AvgIDF=2,39789527279837, AvgSQC=4,05998962041658, AvgVAR=0
+2013-09-06 13:59:49,283 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-06 13:59:49,883 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: button
+2013-09-06 13:59:51,723 INFO  DataCollectionLogger - TagCloud: Render a tag cloud. Query: button
+2013-09-06 14:01:18,387 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=348403837

@@ -1,0 +1,93 @@
+2013-08-26 12:20:01,408 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1289376155
+2013-08-26 12:23:49,550 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.58496747867057, AvgIDF=4.58496747867057, AvgSQC=9.6220690938817, AvgVAR=0
+2013-08-26 12:23:49,573 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-26 12:23:50,596 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-26 12:23:50,602 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=1.09832255840302, StdDevScore=0.0369143231775617
+2013-08-26 12:24:02,533 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-08-26 12:24:03,378 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-26 12:24:04,997 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-08-26 12:24:09,242 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=1.09129011631012, DoubleClickedResultRank=10
+2013-08-26 12:24:09,451 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-28 09:27:29,671 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.72738781871234, AvgIDF=4.09530152058599, AvgSQC=22.5225749528676, AvgVAR=0.0078681070598093
+2013-08-28 09:27:29,750 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-28 09:27:30,016 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: contact details header headercontactdetails contactdetails
+Reformed Query: contact details header yourcontactdetails contactdetails
+Explanation: Correct "headercontactdetails" to "yourcontactdetails";
+
+
+2013-08-28 09:27:30,081 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:contact details header headercontactdetails
+Recommended queries:
+Reformed Query: contact details header contactdetails
+Explanation: Correct "headercontactdetails" to "contactdetails";
+Reformed Query: contact details header yourcontactdetailsviewmodel contactdetails
+Explanation: Correct "headercontactdetails" to "yourcontactdetailsviewmodel";
+Reformed Query: contact details header contactdetailsareempty contactdetails
+Explanation: Correct "headercontactdetails" to "contactdetailsareempty";
+Reformed Query: contact details header get contactdetails
+Explanation: "get" is an often neighbor.;
+Reformed Query: contact details header set contactdetails
+Explanation: "set" is an often neighbor.;
+Reformed Query: contact details header mainordercreatebillingcontactproductid contactdetails
+Explanation: Correct "headercontactdetails" to "mainordercreatebillingcontactproductid";
+
+
+2013-08-28 09:27:31,904 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-28 09:27:31,935 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.033871251787059, StdDevScore=0.0192740117227203
+2013-08-28 09:27:44,723 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.72738781871234, AvgIDF=4.09530152058599, AvgSQC=22.5225749528676, AvgVAR=0.0078681070598093
+2013-08-28 09:27:44,731 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Quoted ; DiceCoefficientToPreviousQuery=0
+2013-08-28 09:27:46,618 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 09:27:46,629 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-28 09:27:51,319 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.72738781871234, AvgIDF=4.09530152058599, AvgSQC=22.5225749528676, AvgVAR=0.0078681070598093
+2013-08-28 09:27:51,325 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Quoted ; DiceCoefficientToPreviousQuery=1
+2013-08-28 09:27:51,597 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 09:27:51,602 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-28 09:28:07,300 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.72738781871234, AvgIDF=4.09530152058599, AvgSQC=22.5225749528676, AvgVAR=0.0078681070598093
+2013-08-28 09:28:07,306 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Quoted ; DiceCoefficientToPreviousQuery=1
+2013-08-28 09:28:07,637 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 09:28:07,645 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-28 09:28:11,889 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.72738781871234, AvgIDF=4.09530152058599, AvgSQC=22.5225749528676, AvgVAR=0.0078681070598093
+2013-08-28 09:28:11,900 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-28 09:28:11,932 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: contact details header headercontactdetails contactdetails
+Reformed Query: contact details header yourcontactdetails contactdetails
+Explanation: Correct "headercontactdetails" to "yourcontactdetails";
+
+
+2013-08-28 09:28:11,938 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:contact details header headercontactdetails
+Recommended queries:
+Reformed Query: contact details header contactdetails
+Explanation: Correct "headercontactdetails" to "contactdetails";
+Reformed Query: contact details header yourcontactdetailsviewmodel contactdetails
+Explanation: Correct "headercontactdetails" to "yourcontactdetailsviewmodel";
+Reformed Query: contact details header contactdetailsareempty contactdetails
+Explanation: Correct "headercontactdetails" to "contactdetailsareempty";
+Reformed Query: contact details header get contactdetails
+Explanation: "get" is an often neighbor.;
+Reformed Query: contact details header set contactdetails
+Explanation: "set" is an often neighbor.;
+Reformed Query: contact details header mainordercreatebillingcontactproductid contactdetails
+Explanation: Correct "headercontactdetails" to "mainordercreatebillingcontactproductid";
+
+
+2013-08-28 09:28:12,181 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-28 09:28:12,189 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0350392883643508, StdDevScore=0.01797261536641
+2013-08-28 09:28:19,937 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=40
+2013-08-28 09:28:27,222 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=12
+2013-08-28 09:28:28,244 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=11
+2013-08-28 09:28:28,975 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=14
+2013-08-28 09:28:31,137 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=19
+2013-08-28 09:28:34,072 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=10
+2013-08-28 09:28:34,563 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-28 15:57:06,093 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.07753744390572, AvgIDF=2.70096304488029, AvgSQC=17.8593472912654, AvgVAR=0.00595732894951468
+2013-08-28 15:57:06,110 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,Quoted,Quoted ; DiceCoefficientToPreviousQuery=0
+2013-08-28 15:57:07,070 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 15:57:07,083 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-28 15:57:09,707 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.07753744390572, AvgIDF=2.70096304488029, AvgSQC=17.8593472912654, AvgVAR=0.00595732894951468
+2013-08-28 15:57:09,714 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,Quoted,Quoted ; DiceCoefficientToPreviousQuery=1
+2013-08-28 15:57:10,239 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 15:57:10,252 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN
+2013-08-28 15:57:28,377 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.07753744390572, AvgIDF=2.70096304488029, AvgSQC=17.8593472912654, AvgVAR=0.00595732894951468
+2013-08-28 15:57:28,490 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,Quoted,Quoted ; DiceCoefficientToPreviousQuery=1
+2013-08-28 15:57:29,303 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=0, MaxNumberOfResultsPossible=40
+2013-08-28 15:57:29,313 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=NaN, StdDevScore=NaN

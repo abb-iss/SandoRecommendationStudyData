@@ -1,0 +1,18 @@
+2013-09-06 08:20:18,648 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1004340882
+2013-09-06 08:20:48,510 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.01126717440416, AvgIDF=6.01126717440416, AvgSQC=6.01126717440416, AvgVAR=0
+2013-09-06 08:20:48,524 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-06 08:20:48,602 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-09-06 08:20:48,604 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Typo Correction; Typo Correction; Typo Correction; Typo Correction;Typo Correction; Typo Correction; Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; 
+2013-09-06 08:20:49,203 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-06 08:20:49,204 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0912680854089558, StdDevScore=0.111453846719855
+2013-09-06 08:21:11,082 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.01126717440416, AvgIDF=6.01126717440416, AvgSQC=6.01126717440416, AvgVAR=0
+2013-09-06 08:21:11,086 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-06 08:21:11,311 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=3, MaxNumberOfResultsPossible=40
+2013-09-06 08:21:11,312 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0386471631626288, StdDevScore=0.022616310446401
+2013-09-06 08:21:28,770 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-09-06 08:21:28,927 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.0546393096446991, DoubleClickedResultRank=2
+2013-09-06 08:21:31,721 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-09-06 08:21:32,479 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-09-06 08:21:34,814 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-09-06 13:15:19,156 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-1004340882
+2013-09-06 13:18:32,197 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=599644460

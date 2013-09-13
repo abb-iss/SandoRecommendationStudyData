@@ -1,0 +1,158 @@
+2013-08-15 13:10:52,924 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1896308868
+2013-08-15 16:11:57,640 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=2.94443897916644, AvgIDF=2.57083177825133, AvgSQC=6.59566562298253, AvgVAR=0.00257659101335641
+2013-08-15 16:11:57,669 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:11:59,218 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:11:59,219 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0178992033004761, StdDevScore=0.0096863329410553
+2013-08-15 16:12:37,648 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=17
+2013-08-15 16:12:37,960 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.0275855362415314, DoubleClickedResultRank=17
+2013-08-15 16:12:38,600 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:13:01,781 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=20
+2013-08-15 16:13:01,958 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.0275855362415314, DoubleClickedResultRank=20
+2013-08-15 16:13:02,214 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:13:50,480 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=18
+2013-08-15 16:13:52,964 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.0275855362415314, DoubleClickedResultRank=18
+2013-08-15 16:13:53,576 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:18:10,376 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.35670882668959, AvgIDF=4.35670882668959, AvgSQC=4.35670882668959, AvgVAR=0
+2013-08-15 16:18:10,378 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:18:10,439 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: ILog Log
+Reformed Query: filelog Log
+Explanation: Correct "ILog" to "filelog";
+
+
+2013-08-15 16:18:10,443 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:ILog Log
+Recommended queries:
+Reformed Query: fileloggertest Log
+Explanation: Correct "ILog" to "fileloggertest";
+Reformed Query: blazefilelogger Log
+Explanation: Correct "ILog" to "blazefilelogger";
+Reformed Query: testfileanddblog Log
+Explanation: Correct "ILog" to "testfileanddblog";
+Reformed Query: blazelogfilename Log
+Explanation: Correct "ILog" to "blazelogfilename";
+
+
+2013-08-15 16:18:12,784 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:18:12,786 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.159273529984057, StdDevScore=0.0653717901749435
+2013-08-15 16:18:15,617 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.76217393479776, AvgIDF=4.76217393479776, AvgSQC=8.06306137103888, AvgVAR=0
+2013-08-15 16:18:15,619 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:18:16,118 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:18:16,119 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.188336066901684, StdDevScore=0.115978755461405
+2013-08-15 16:18:20,869 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-15 16:18:21,129 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=NameContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.327331006526947, DoubleClickedResultRank=2
+2013-08-15 16:18:21,643 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:18:53,766 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.30627528694802, AvgIDF=6.30627528694802, AvgSQC=10.6774522219309, AvgVAR=0
+2013-08-15 16:18:53,768 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:18:54,775 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:18:54,776 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.198104183655232, StdDevScore=0.201751551718212
+2013-08-15 16:19:07,449 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.30627528694802, AvgIDF=3.95785659969106, AvgSQC=10.2071599223827, AvgVAR=0.000582214559623453
+2013-08-15 16:19:07,451 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase,Minus ; DiceCoefficientToPreviousQuery=0.666666666666667
+2013-08-15 16:19:07,769 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:19:07,770 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.17702793283388, StdDevScore=0.201609101912874
+2013-08-15 16:19:24,766 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=29
+2013-08-15 16:19:24,984 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.0646723359823227, DoubleClickedResultRank=29
+2013-08-15 16:19:25,460 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:19:53,877 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.26267987704132, AvgIDF=4.26267987704132, AvgSQC=4.26267987704132, AvgVAR=0
+2013-08-15 16:19:53,878 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:19:53,892 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: ILog Log
+Reformed Query: filelog Log
+Explanation: Correct "ILog" to "filelog";
+
+
+2013-08-15 16:19:53,893 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:ILog Log
+Recommended queries:
+Reformed Query: fileloggertest Log
+Explanation: Correct "ILog" to "fileloggertest";
+Reformed Query: blazefilelogger Log
+Explanation: Correct "ILog" to "blazefilelogger";
+Reformed Query: testfileanddblog Log
+Explanation: Correct "ILog" to "testfileanddblog";
+Reformed Query: blazelogfilename Log
+Explanation: Correct "ILog" to "blazelogfilename";
+
+
+2013-08-15 16:19:54,170 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:19:54,172 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.15629599802196, StdDevScore=0.0647415413830228
+2013-08-15 16:20:16,543 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=6
+2013-08-15 16:20:16,797 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=RawSourceContainsQuery, ResultLanguage=C#, ResultLuceneScore=0.231407850980759, DoubleClickedResultRank=6
+2013-08-15 16:20:17,570 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:20:40,451 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=8
+2013-08-15 16:20:43,019 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Field, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.183905214071274, DoubleClickedResultRank=8
+2013-08-15 16:20:43,632 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:20:55,786 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.21950770517611, AvgIDF=2.9144728088051, AvgSQC=6.97818766400535, AvgVAR=0.000582214559623453
+2013-08-15 16:20:55,788 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase,MinusCamelcase ; DiceCoefficientToPreviousQuery=0.666666666666667
+2013-08-15 16:20:55,807 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: ILog Log - Test -Test log
+Reformed Query: filelog blazedblogger Test -Test log
+Explanation: Correct "ILog" to "filelog";Correct "Log -" to "blazedblogger";
+
+
+2013-08-15 16:20:55,808 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:ILog Log - Test -Test log
+Recommended queries:
+Reformed Query: filelog aggregatelogtest Test -Test log
+Explanation: Correct "ILog" to "filelog";Correct "Log -" to "aggregatelogtest";
+Reformed Query: filelog blazedbloggertest Test -Test log
+Explanation: Correct "ILog" to "filelog";Correct "Log -" to "blazedbloggertest";
+Reformed Query: filelog appendloggingevents Test -Test log
+Explanation: Correct "ILog" to "filelog";Correct "Log -" to "appendloggingevents";
+Reformed Query: filelog aggregatelogs Test -Test log
+Explanation: Correct "ILog" to "filelog";Correct "Log -" to "aggregatelogs";
+Reformed Query: fileloggertest blazedblogger Test -Test log
+Explanation: Correct "ILog" to "fileloggertest";Correct "Log -" to "blazedblogger";
+Reformed Query: blazefilelogger blazedblogger Test -Test log
+Explanation: Correct "ILog" to "blazefilelogger";Correct "Log -" to "blazedblogger";
+Reformed Query: blazelogfilename blazedblogger Test -Test log
+Explanation: Correct "ILog" to "blazelogfilename";Correct "Log -" to "blazedblogger";
+Reformed Query: testfileanddblog blazedblogger Test -Test log
+Explanation: Correct "ILog" to "testfileanddblog";Correct "Log -" to "blazedblogger";
+Reformed Query: fileloggertest aggregatelogtest Test -Test log
+Explanation: Correct "ILog" to "fileloggertest";Correct "Log -" to "aggregatelogtest";
+Reformed Query: fileloggertest blazedbloggertest Test -Test log
+Explanation: Correct "ILog" to "fileloggertest";Correct "Log -" to "blazedbloggertest";
+Reformed Query: blazefilelogger aggregatelogtest Test -Test log
+Explanation: Correct "ILog" to "blazefilelogger";Correct "Log -" to "aggregatelogtest";
+Reformed Query: blazelogfilename aggregatelogtest Test -Test log
+Explanation: Correct "ILog" to "blazelogfilename";Correct "Log -" to "aggregatelogtest";
+Reformed Query: fileloggertest appendloggingevents Test -Test log
+Explanation: Correct "ILog" to "fileloggertest";Correct "Log -" to "appendloggingevents";
+Reformed Query: blazefilelogger blazedbloggertest Test -Test log
+Explanation: Correct "ILog" to "blazefilelogger";Correct "Log -" to "blazedbloggertest";
+Reformed Query: testfileanddblog aggregatelogtest Test -Test log
+Explanation: Correct "ILog" to "testfileanddblog";Correct "Log -" to "aggregatelogtest";
+Reformed Query: blazelogfilename blazedbloggertest Test -Test log
+Explanation: Correct "ILog" to "blazelogfilename";Correct "Log -" to "blazedbloggertest";
+Reformed Query: blazefilelogger appendloggingevents Test -Test log
+Explanation: Correct "ILog" to "blazefilelogger";Correct "Log -" to "appendloggingevents";
+Reformed Query: testfileanddblog blazedbloggertest Test -Test log
+Explanation: Correct "ILog" to "testfileanddblog";Correct "Log -" to "blazedbloggertest";
+Reformed Query: blazelogfilename appendloggingevents Test -Test log
+Explanation: Correct "ILog" to "blazelogfilename";Correct "Log -" to "appendloggingevents";
+Reformed Query: testfileanddblog appendloggingevents Test -Test log
+Explanation: Correct "ILog" to "testfileanddblog";Correct "Log -" to "appendloggingevents";
+Reformed Query: fileloggertest aggregatelogs Test -Test log
+Explanation: Correct "ILog" to "fileloggertest";Correct "Log -" to "aggregatelogs";
+Reformed Query: blazefilelogger aggregatelogs Test -Test log
+Explanation: Correct "ILog" to "blazefilelogger";Correct "Log -" to "aggregatelogs";
+Reformed Query: blazelogfilename aggregatelogs Test -Test log
+Explanation: Correct "ILog" to "blazelogfilename";Correct "Log -" to "aggregatelogs";
+Reformed Query: testfileanddblog aggregatelogs Test -Test log
+Explanation: Correct "ILog" to "testfileanddblog";Correct "Log -" to "aggregatelogs";
+
+
+2013-08-15 16:21:03,032 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=25
+2013-08-15 16:21:05,631 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:21:14,705 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.21950770517611, AvgIDF=2.9144728088051, AvgSQC=6.97818766400535, AvgVAR=0.000582214559623453
+2013-08-15 16:21:14,707 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,MinusCamelcase ; DiceCoefficientToPreviousQuery=0.5
+2013-08-15 16:21:18,653 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.21950770517611, AvgIDF=2.9144728088051, AvgSQC=6.97818766400535, AvgVAR=0.000582214559623453
+2013-08-15 16:21:18,655 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=QuotedCamelcase,MinusCamelcase ; DiceCoefficientToPreviousQuery=1
+2013-08-15 16:21:42,272 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.30809844150953, AvgIDF=3.95876817697182, AvgSQC=10.2087033568855, AvgVAR=0.000582214559623453
+2013-08-15 16:21:42,273 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase,Minus ; DiceCoefficientToPreviousQuery=0
+2013-08-15 16:21:42,777 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-15 16:21:42,779 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.17567856349051, StdDevScore=0.202340363884684
+2013-08-15 16:21:49,487 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=13
+2013-08-15 16:21:49,660 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Property, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.137893795967102, DoubleClickedResultRank=13
+2013-08-15 16:21:56,616 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-15 16:23:13,154 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-15 16:23:15,156 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.639886260032654, DoubleClickedResultRank=3
+2013-08-15 16:23:21,072 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

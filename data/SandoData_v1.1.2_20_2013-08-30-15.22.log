@@ -1,0 +1,34 @@
+2013-08-30 15:22:15,734 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1641095811
+2013-08-30 15:23:57,562 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=1.94591014905531, AvgIDF=1.94591014905531, AvgSQC=3.29471228249599, AvgVAR=0
+2013-08-30 15:23:57,609 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-30 15:23:57,984 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=5, MaxNumberOfResultsPossible=40
+2013-08-30 15:23:57,984 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.271696957945824, StdDevScore=0.186761066766749
+2013-08-30 15:23:59,625 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-30 15:23:59,843 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Class, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.501115918159485, DoubleClickedResultRank=1
+2013-08-30 15:24:01,281 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-30 15:24:03,203 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-30 15:24:04,375 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-30 15:24:09,890 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-30 15:24:32,875 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-30 15:24:34,281 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-30 15:24:34,375 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-30 15:24:35,156 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-30 15:24:36,109 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-08-30 15:24:36,734 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-30 15:24:37,140 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-30 15:24:37,484 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-30 15:24:38,984 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-30 15:24:44,031 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-08-30 15:24:49,468 INFO  DataCollectionLogger - TagCloud: Select a tag.
+
+2013-08-30 15:24:49,468 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=0, AvgIDF=0, AvgSQC=0, AvgVAR=0
+2013-08-30 15:24:49,484 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-30 15:24:49,484 INFO  DataCollectionLogger - Pre-search recommendation: History
+2013-08-30 15:24:49,531 INFO  DataCollectionLogger - Post-search recommendation: Add search terms automatically.Typo Correction; 
+2013-08-30 15:24:49,531 INFO  DataCollectionLogger - Post-search recommendation: Created links.Typo Correction; Typo Correction; Typo Correction; Neighbor; Typo Correction;Typo Correction; Neighbor; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Neighbor; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Typo Correction;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Neighbor;Typo Correction; Typo Correction;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Neighbor;Typo Correction; Typo Correction;Neighbor; Neighbor;Typo Correction; Neighbor;Neighbor; Neighbor;Neighbor; Neighbor;Typo Correction; Typo Correction;Neighbor; Neighbor;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Typo Correction;Neighbor; Neighbor;Neighbor; Neighbor;Neighbor; Neighbor;Neighbor; Neighbor;Typo Correction; Neighbor;Neighbor; 
+2013-08-30 15:24:49,578 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=2, MaxNumberOfResultsPossible=40
+2013-08-30 15:24:49,578 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0249969298020005, StdDevScore=0.0013169115409255
+2013-08-30 15:24:52,781 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-30 15:24:54,375 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-30 15:24:55,375 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-30 15:24:59,000 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

@@ -1,0 +1,36 @@
+2013-08-21 16:09:51,115 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=2105219820
+2013-08-21 16:10:31,644 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=7.57609734062311, AvgIDF=7.57609734062311, AvgSQC=7.57609734062311, AvgVAR=0
+2013-08-21 16:10:31,660 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-21 16:10:31,773 INFO  DataCollectionLogger - IReformedQuery: Add search terms automatically.
+Original query: leftward left war
+Reformed Query: software left war
+Explanation: Correct "leftward" to "software";
+
+
+2013-08-21 16:10:31,777 INFO  DataCollectionLogger - IReformedQuery: Issue reformed queries.Original query:leftward war
+Recommended queries:
+Reformed Query: left war
+Explanation: Correct "leftward" to "left";
+Reformed Query: state left war
+Explanation: "state" is an often neighbor.;
+Reformed Query: clear left war
+Explanation: Correct "leftward" to "clear";
+Reformed Query: aufteilen left war
+Explanation: Correct "leftward" to "aufteilen";
+Reformed Query: wenn left war
+Explanation: "wenn" is an often neighbor.;
+Reformed Query: fehlerhafte left war
+Explanation: Correct "leftward" to "fehlerhafte";
+Reformed Query: true left war
+Explanation: "true" is an often neighbor.;
+
+
+2013-08-21 16:10:36,780 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=27, MaxNumberOfResultsPossible=40
+2013-08-21 16:10:36,781 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0185013535535998, StdDevScore=0.00220427279513046
+2013-08-21 16:10:48,188 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=4.31748811353631, AvgIDF=4.31748811353631, AvgSQC=16.2881069655314, AvgVAR=0
+2013-08-21 16:10:48,218 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-21 16:10:49,480 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=11, MaxNumberOfResultsPossible=40
+2013-08-21 16:10:49,481 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.0475291850214655, StdDevScore=0.00887035796060017
+2013-08-21 16:11:02,107 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=6
+2013-08-21 16:11:03,094 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C++, ResultLuceneScore=0.043811772018671, DoubleClickedResultRank=6
+2013-08-21 16:11:04,034 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

@@ -1,0 +1,10 @@
+2013-08-27 18:10:46,139 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=-443901734
+2013-08-27 18:11:00,290 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=2.89037175789616, AvgIDF=2.89037175789616, AvgSQC=9.24116762198411, AvgVAR=0.0683349794337116
+2013-08-27 18:11:00,889 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain ; DiceCoefficientToPreviousQuery=0
+2013-08-27 18:13:16,645 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=20, MaxNumberOfResultsPossible=40
+2013-08-27 18:13:16,647 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.119476907327771, StdDevScore=0.110471457940748
+2013-08-27 18:19:48,229 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-27 18:19:49,084 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.474694848060608, DoubleClickedResultRank=1
+2013-08-27 18:19:55,476 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-27 18:19:55,606 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=Method, QueryToResultSimilarityDescription=QueryNotInNameOrRawSource, ResultLanguage=C#, ResultLuceneScore=0.382012814283371, DoubleClickedResultRank=2
+2013-08-27 18:20:03,092 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0

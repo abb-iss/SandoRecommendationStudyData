@@ -1,0 +1,22 @@
+2013-08-26 16:06:18,020 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1722615604
+2013-08-26 16:07:28,190 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=6.77308037565554, AvgIDF=6.77308037565554, AvgSQC=22.3686742822905, AvgVAR=5.55111512312578E-17
+2013-08-26 16:07:28,203 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-08-26 16:07:28,606 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-26 16:07:28,607 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.464172254130244, StdDevScore=0.265884236167556
+2013-08-26 16:07:35,112 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-26 16:07:37,211 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-26 16:07:39,146 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-26 16:07:40,491 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-26 16:07:41,273 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-26 16:07:42,065 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=2
+2013-08-26 16:07:42,875 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=3
+2013-08-26 16:07:44,098 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=4
+2013-08-26 16:07:45,274 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=5
+2013-08-26 16:07:54,196 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-26 16:07:54,728 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=1
+2013-08-26 16:07:55,017 INFO  DataCollectionLogger - FileOpener: User double-clicked a result: TypeOfResult=MethodPrototype, QueryToResultSimilarityDescription=NameContainsQuery, ResultLanguage=C++, ResultLuceneScore=1.11633729934692, DoubleClickedResultRank=1
+2013-08-26 16:07:55,563 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: User single-clicked a result: SingleClickedResultRank=0
+2013-08-26 19:18:36,255 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.43398720448515, AvgIDF=3.43398720448515, AvgSQC=25.4351310973191, AvgVAR=0.000950687942630426
+2013-08-26 19:18:36,256 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Acronym ; DiceCoefficientToPreviousQuery=0
+2013-08-26 19:18:36,468 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-08-26 19:18:36,469 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.778156077861786, StdDevScore=0.112774570927516

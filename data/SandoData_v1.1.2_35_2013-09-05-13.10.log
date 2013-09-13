@@ -1,0 +1,10 @@
+2013-09-05 13:10:24,099 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=1876076318
+2013-09-05 13:51:26,056 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=9,85445485895882, AvgIDF=9,85445485895882, AvgSQC=16,6850424604014, AvgVAR=0
+2013-09-05 13:51:26,198 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=0
+2013-09-05 13:51:34,348 INFO  DataCollectionLogger - TagCloud: Render a tag cloud.
+2013-09-05 13:51:37,665 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-05 13:51:37,668 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,23467173576355, StdDevScore=0,221030199514545
+2013-09-05 13:55:59,445 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=9,92803381295413, AvgIDF=9,92803381295413, AvgSQC=16,8096224589071, AvgVAR=0
+2013-09-05 13:55:59,571 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Camelcase ; DiceCoefficientToPreviousQuery=1
+2013-09-05 13:56:11,902 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-05 13:56:11,947 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0,236457766219974, StdDevScore=0,221387444446284

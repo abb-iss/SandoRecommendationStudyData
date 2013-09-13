@@ -1,0 +1,18 @@
+2013-09-03 11:09:58,295 INFO  DataCollectionLogger - Sando.UI.UIPackage: Solution opened: SolutionHash=2019190158
+2013-09-03 11:11:38,189 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.13549421592915, AvgIDF=3.13549421592915, AvgSQC=21.3374613336548, AvgVAR=0.000566901906956502
+2013-09-03 11:11:38,201 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0
+2013-09-03 11:11:38,877 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 11:11:38,877 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.666343404352665, StdDevScore=0.0708014122694945
+2013-09-03 11:12:14,230 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.13549421592915, AvgIDF=2.8872757727722, AvgSQC=20.1592591393767, AvgVAR=0.000396091120202106
+2013-09-03 11:12:14,231 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=0.666666666666667
+2013-09-03 11:12:15,575 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 11:12:15,576 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.421026106178761, StdDevScore=0.144767614102883
+2013-09-03 11:12:20,534 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Pre retrieval metrics: MaxIDF=3.13549421592915, AvgIDF=2.8872757727722, AvgSQC=20.1592591393767, AvgVAR=0.000396091120202106
+2013-09-03 11:12:20,534 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Query submitted by user: QueryDescription=Plain,Plain ; DiceCoefficientToPreviousQuery=1
+2013-09-03 11:12:22,010 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Sando returned results: NumberOfResults=40, MaxNumberOfResultsPossible=40
+2013-09-03 11:12:22,011 INFO  DataCollectionLogger - Sando.UI.View.SearchManager: Post retrieval metrics: AvgScore=0.421026106178761, StdDevScore=0.144767614102883
+2013-09-03 11:12:28,252 INFO  DataCollectionLogger - Pre-search recommendation: Verb-DO pair
+2013-09-03 11:12:28,253 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
+2013-09-03 11:12:28,254 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
+2013-09-03 11:12:28,254 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
+2013-09-03 11:12:28,255 INFO  DataCollectionLogger - Sando.UI.View.SearchViewControl: Recommendation item selected: SelectedRecommendationRank=4
